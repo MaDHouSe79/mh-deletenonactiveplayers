@@ -33,7 +33,7 @@ local function CheckIfPlayerIsActive()
                 end)
             end
         end
-        print("Totaal "..count.." niet active accounts gevonden..")
+        print("Total "..count.." non active accounts has been founded and deleted..")
     end)
 end
 
