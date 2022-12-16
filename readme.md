@@ -30,6 +30,7 @@
 
 this goes fully automatic, on every server restart it checks for non active accounts.
 If a player does not logged in in a amount of days, this account will be deleted from the database.
+you can edit the amount of days in the config.lua file.
 
 
 #Install
