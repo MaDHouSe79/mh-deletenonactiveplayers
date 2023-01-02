@@ -37,3 +37,7 @@ you can edit the amount of days in the config.lua file.
 - place the 'mh-deletenonactiveplayers' in resources/[mh]/
 - add `ensure [mh]` in your server.cfg
 - restart your server.
+
+# LICENSE
+[GPL LICENSE](./LICENSE)<br />
+&copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
