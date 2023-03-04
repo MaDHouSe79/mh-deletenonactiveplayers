@@ -26,7 +26,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
 </p>
 
-### MH Delete non active account after a amount of days not logged in.
+### MH Delete non active accounts after a amount of days not logged in.
 
 this goes fully automatic, on every server restart it checks for non active accounts.
 If a player does not logged in in a amount of days, this account will be deleted from the database.
