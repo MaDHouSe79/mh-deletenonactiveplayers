@@ -3,14 +3,13 @@ games { 'gta5' }
 
 author 'MaDHouSe'
 description 'MH - Delete Non active Players'
-version '2.0'
+version '1.0'
 
-shared_scripts {
-    'config.lua',
-}
+server_only 'yes'
 
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
+    'config.lua',
     'server/main.lua',
 }
 
