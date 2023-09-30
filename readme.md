@@ -38,6 +38,9 @@ you can edit the amount of days in the config.lua file.
 - add `ensure [mh]` in your server.cfg
 - restart your server.
 
+# 🙈 Youtube
+- [Youtube](https://www.youtube.com/c/MaDHouSe79)
+
 # LICENSE
 [GPL LICENSE](./LICENSE)<br />
 &copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
